@@ -2,6 +2,7 @@
   <class name="base_placement_plugin/Base Placement Plug-in"
          type="base_placement_plugin::AddWayPoint"
          base_class_type="rviz::Panel"/>
+  </class>
     <description>
       Tool for visualizing base placement methods
     </description>
